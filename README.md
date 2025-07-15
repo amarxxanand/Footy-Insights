@@ -38,6 +38,13 @@ Footy Insights is a structured database project developed using MySQL to store, 
 * List teams with the highest win percentage
 * Identify managers with the longest undefeated streaks
 
+## 👥 Contributors
+
+* **Abhishek Sharma** (2023026)  
+* **Aditya Nuli** (2023360)  
+* **Amar Anand** (2023079)  
+* **Piyush Keshan** (2023376)  
+
 ## 🧾 License
 
 This project is for educational purposes. Feel free to fork or adapt it with attribution.
